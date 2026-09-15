@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-15T03:10:42.424887+00:00",
-  "totalJobs": 93,
+  "lastUpdated": "2026-09-15T09:22:15.960334+00:00",
+  "totalJobs": 96,
   "sources": [
     "Anthropic",
     "HackerNews",
@@ -572,6 +572,27 @@
       "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
+      "id": "wwr-huzzle-full-stack-developer-python-react-ai-1",
+      "company": "Huzzle",
+      "position": "Full-Stack Developer (Python, React, AI)",
+      "location": "Remote",
+      "remote": true,
+      "salary": "",
+      "description": "Headquarters: Colombia About Huzzle At Huzzle, we connect high-performing B2B sales professionals with global companies across the UK, US, Canada, Europe, and Australia. Our clients include startups, digital agencies, and tech platforms in industries like SaaS, MarTech, FinTech, and EdTech. We...",
+      "applyUrl": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1",
+      "source": "WeWorkRemotely",
+      "sourceUrl": "https://weworkremotely.com/remote-jobs/huzzle-full-stack-developer-python-react-ai-1",
+      "postedAt": "2026-08-18T20:34:11+00:00",
+      "tags": [
+        "React",
+        "Python",
+        "AWS",
+        "Claude Code",
+        "MongoDB"
+      ],
+      "companyIcon": ""
+    },
+    {
       "id": "wwr-huzzle-full-stack-developer-python-react-ai",
       "company": "Huzzle",
       "position": "Full-Stack Developer (Python, React, AI)",
@@ -818,6 +839,26 @@
         "AWS"
       ],
       "companyIcon": ""
+    },
+    {
+      "id": "anth-5383596008",
+      "company": "Anthropic",
+      "position": "Developer Relations",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "As Developer Relations at Anthropic, you will help developers discover, onboard, and get the most out of Claude Code, Claude Tag, and future developer products. This role is pivotal in helping developers adopt Claude-powered products, growing our developer ecosystem, gathering crucial feedback to...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5383596008",
+      "postedAt": "2026-08-10T15:57:04-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "hn-49215237",
@@ -1600,6 +1641,26 @@
         "Cursor"
       ],
       "companyIcon": ""
+    },
+    {
+      "id": "anth-5277834008",
+      "company": "Anthropic",
+      "position": "Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences)",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Biology is the area where scientific progress has perhaps the greatest potential to directly and unambiguously improve human life — and we believe powerful AI could meaningfully accelerate the rate of biological discovery, helping compress decades of progress into years. With Claude for Life...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5277834008",
+      "postedAt": "2026-06-24T13:51:42-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
     },
     {
       "id": "anth-5255912008",
